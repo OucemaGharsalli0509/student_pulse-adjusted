@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "771566350646",
+    "project_id": "student-pulse-ecbc9",
+    "storage_bucket": "student-pulse-ecbc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771566350646:android:3cccc8f9f3cbbb3bfac397",
+        "android_client_info": {
+          "package_name": "com.studentpulse.student_pulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771566350646-3ru2p6pu5reoqoum9e9a1chi7m5o684o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9waqwL9SvXA42d-YHrva5DDV1EMaIcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771566350646-3ru2p6pu5reoqoum9e9a1chi7m5o684o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771566350646-0es96cc6qmnmf5ii9g6krcdvprksuhk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.studentpulse.studentPulseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
